@@ -609,6 +609,9 @@
     "replayBtn": {
       "__id__": 11
     },
+    "buttonAudio": {
+      "__uuid__": "b25dae9b-1bd7-4dac-9751-57ae01f2c86b"
+    },
     "_id": "31tZzoVVpCFZVaLguCySoY"
   }
 ]
